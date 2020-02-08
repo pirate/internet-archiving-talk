@@ -2,20 +2,21 @@
 
 Slides and video for my talk about Internet Archiving.
 
-[Nick Sweeting](https://docs.sweeting.me/s/blog)      [@theSquashSH](https://twitter.com/theSquashSH) (Twitter)     [@pirate](https://github.com/pirate) (Github)      Monadical.com 
+[Nick Sweeting](https://docs.sweeting.me/s/blog) (Co-Founder @ https://monadical.com)     [@theSquashSH](https://twitter.com/theSquashSH) / [@pirate](https://github.com/pirate)
 
 ---
 
-<a href="https://www.youtube.com/watch?v=7eoz_EU6-wQ"><img src="https://i.imgur.com/X7j5H5H.jpg" style="width: 500px"/></a>
+<a href="https://www.youtube.com/watch?v=7eoz_EU6-wQ"><img src="https://i.imgur.com/X7j5H5H.jpg" style="max-width: 400px"/></a>
 
 ## Slides
 
-- [Short Version](#)
-- [Long Version](#)
+- [HTML](https://github.com/pirate/internet-archiving-talk/raw/master/Archiving%20Talk%20Long/index.html)
+- [PDF](https://github.com/pirate/internet-archiving-talk/raw/master/Archiving%20Talk%20Long.pdf)
+- [Keynote](https://github.com/pirate/internet-archiving-talk/raw/master/Archiving%20Talk%20PyCon%20Colombia%202020.key)
 
 ## Video
 
-- [Our Networks 2019 @ Toronto](#)
+- [Our Networks 2019 @ Toronto](https://www.youtube.com/watch?v=ZYPA_jDAxJY)
 - [PyGotham 2019 @ NYC](https://www.youtube.com/watch?v=7eoz_EU6-wQ)
 - [PyCon Colombia 2020 @ Medellin](#coming-soon)
 
