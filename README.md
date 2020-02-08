@@ -2,23 +2,25 @@
 
 Slides and video for my talk about Internet Archiving.
 
-[Nick Sweeting](https://docs.sweeting.me/s/blog) (Co-Founder @ https://monadical.com)     [@theSquashSH](https://twitter.com/theSquashSH) / [@pirate](https://github.com/pirate)
+[Nick Sweeting](https://docs.sweeting.me/s/blog) (Co-Founder @ https://monadical.com)
+[@theSquashSH](https://twitter.com/theSquashSH) / [@pirate](https://github.com/pirate)
 
 ---
 
-<a href="https://www.youtube.com/watch?v=7eoz_EU6-wQ"><img src="https://i.imgur.com/X7j5H5H.jpg" style="max-width: 400px"/></a>
+<a href="https://www.youtube.com/watch?v=7eoz_EU6-wQ"><img src="https://i.imgur.com/X7j5H5H.jpg" width="400px"/></a>
 
 ## Slides
 
-- [HTML](https://cdn.statically.io/gh/pirate/internet-archiving-talk/master/Archiving%20Talk%20Long/assets/player/KeynoteDHTMLPlayer.html#0)
-- [PDF](https://cdn.statically.io/gh/pirate/internet-archiving-talk/master/Archiving%20Talk%20Long.pdf)
+- [HTML](pirate.github.io/internet-archiving-talk/Archiving%20Talk%20Long/assets/player/KeynoteDHTMLPlayer.html)
+- [PDF](pirate.github.io/internet-archiving-talk/Archiving%20Talk%20Long.pdf)
 - [Keynote](https://github.com/pirate/internet-archiving-talk/raw/master/Archiving%20Talk%20PyCon%20Colombia%202020.key)
 
 ## Video
 
-- [Our Networks 2019 @ Toronto](https://www.youtube.com/watch?v=ZYPA_jDAxJY)
-- [PyGotham 2019 @ NYC](https://www.youtube.com/watch?v=7eoz_EU6-wQ)
-- [PyCon Colombia 2020 @ Medellin](#coming-soon)
+- [PyCon Colombia 2020 @ Medellin](https://www.pycon.co/en/talks/5/): Video coming soon...
+- [PyGotham 2019 @ NYC](https://2019.pygotham.org/talks/archiving-the-internet-before-it-all-rots-away/): [Video](https://www.youtube.com/watch?v=7eoz_EU6-wQ)
+- [Our Networks 2019 @ Toronto](https://ournetworks.ca/program/#mesh-lightning-talks): [Video](https://www.youtube.com/watch?v=ZYPA_jDAxJY)
+- [RC Never Graduate Week @ NYC](https://recurse.com): No video available.
 
 ## Rough Outline
 
@@ -70,10 +72,15 @@ Slides and video for my talk about Internet Archiving.
     - Joining the ArchiveTeam task force & archive.org community
     - Running a local internet archive
 
+**Old outline:**
+https://docs.sweeting.me/s/internet-archiving-talk
+
 ## Resources
 
-- **[Big index of all the software and web archiving communities](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)**  
+- **[Big index of all the software and web archiving communities](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)** (ArchiveBox Wiki)
 - https://archivebox.io
+- https://github.com/pirate/wikipedia-mirror
+- https://kiwix.org
 - https://archive.org
 - https://netpreserve.org
 - https://reddit.com/r/ArchiveTeam
