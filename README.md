@@ -10,8 +10,8 @@ Slides and video for my talk about Internet Archiving.
 
 ## Slides
 
-- [HTML](https://github.com/pirate/internet-archiving-talk/raw/master/Archiving%20Talk%20Long/index.html)
-- [PDF](https://github.com/pirate/internet-archiving-talk/raw/master/Archiving%20Talk%20Long.pdf)
+- [HTML](https://cdn.statically.io/gh/pirate/internet-archiving-talk/master/Archiving%20Talk%20Long/assets/player/KeynoteDHTMLPlayer.html#0)
+- [PDF](https://cdn.statically.io/gh/pirate/internet-archiving-talk/master/Archiving%20Talk%20Long.pdf)
 - [Keynote](https://github.com/pirate/internet-archiving-talk/raw/master/Archiving%20Talk%20PyCon%20Colombia%202020.key)
 
 ## Video
