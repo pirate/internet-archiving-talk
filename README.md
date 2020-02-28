@@ -14,6 +14,7 @@ Slides and video for my talk about Internet Archiving.
 - [HTML](https://pirate.github.io/internet-archiving-talk/Archiving%20Talk%20Long/assets/player/KeynoteDHTMLPlayer.html)
 - [PDF](https://pirate.github.io/internet-archiving-talk/Archiving%20Talk%20Long.pdf)
 - [Keynote](https://github.com/pirate/internet-archiving-talk/raw/master/Archiving%20Talk%20PyCon%20Colombia%202020.key)
+- [SlideShare](https://www.slideshare.net/NickSweeting1/archiving-the-internet-before-it-all-rots-away-229406385)
 
 ## Video
 
