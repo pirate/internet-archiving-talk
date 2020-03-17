@@ -1,4 +1,4 @@
-# Internet Archiving Talk
+# Archiving the Internet Before it All Rots Away
 
 Slides and video for my talk about Internet Archiving.
 
@@ -6,6 +6,14 @@ Slides and video for my talk about Internet Archiving.
 [@theSquashSH](https://twitter.com/theSquashSH) / [@pirate](https://github.com/pirate)
 
 ---
+
+## About
+
+Could you imagine an internet where all links stopped working after 4 years? All the old blogs from the 90’s… gone, all your hot takes on Twitter… gone, all the news and reporting… gone.
+
+Some of that decay is good, no one wants the entire internet to be preserved for eternity, but most of that decay leads to great content disappearing forever, and future generations being deprived of access to the most important medium for knowledge in the last half century. If no one worked on preserving that information, the human race would be facing a loss of knowledge many times greater than the burning of the Library of Alexandria.
+
+Luckily organizations like Archive.org and the Internet Preservation Consortium work tirelessly every day to save what they can. But archiving doesn’t have to be exclusive to big organizations, we can all play a part by archiving the stuff that matters to us locally. Learn about the internet archiving community, the tools of the trade, and how to save content you care about in this talk!
 
 <a href="https://www.youtube.com/watch?v=7eoz_EU6-wQ"><img src="https://i.imgur.com/X7j5H5H.jpg" width="400px"/></a>
 
