@@ -26,7 +26,7 @@ Luckily organizations like Archive.org and the Internet Preservation Consortium 
 
 ## Video
 
-- [PyCon Colombia 2020 @ Medellin](https://2020.pycon.co/en/talks/5/): Video coming soon...
+- [PyCon Colombia 2020 @ Medellin](https://2020.pycon.co/en/talks/5/): [Video](https://www.youtube.com/watch?v=LZ7TNQjG74g)
 - [PyGotham 2019 @ NYC](https://2019.pygotham.org/talks/archiving-the-internet-before-it-all-rots-away/): [Video](https://www.youtube.com/watch?v=7eoz_EU6-wQ)
 - [Our Networks 2019 @ Toronto](https://ournetworks.ca/program/#mesh-lightning-talks): [Video](https://www.youtube.com/watch?v=ZYPA_jDAxJY)
 - [RC Never Graduate Week @ NYC](https://recurse.com): No video available.
