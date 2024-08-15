@@ -93,5 +93,6 @@ https://docs.sweeting.me/s/internet-archiving-talk
 - https://archive.org
 - https://netpreserve.org
 - https://reddit.com/r/ArchiveTeam
+- https://sanctum.geek.nz/presentations/web-archiving-with-archivebox.pdf
 - https://webrecorder.io
 - https://docs.sweeting.me/s/equifax-security-incident
